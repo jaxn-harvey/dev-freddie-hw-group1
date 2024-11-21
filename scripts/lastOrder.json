@@ -1,0 +1,7 @@
+{
+"base":"Hamburger",
+"bun":"brioche",
+"toppings":["lettuce", "tomato", "pickles"],
+"condiments":["ketchup", "mustard"],
+"side":"French fries"
+}
